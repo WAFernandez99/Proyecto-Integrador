@@ -1,0 +1,61 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700&display=swap');
+/* Titulo dentro del nav*/
+  header h1{
+font-family:'Coiny', regular;
+font-size: 42pt;
+  }
+  /*Titulo de somos */
+  .T1{
+    font-family: 'Roboto';
+    font: bold;
+    font-size: 48pt;
+  }
+  /*Titulo Wapas*/
+  .T1 strong{
+    font-family: 'Coiny', regular;
+    font-size: 88pt;
+  }
+/*Color de la fuente de los h*/
+  h1,h2,h3,h4 {
+    color: black;
+  }
+  /*Tamaño de letra de los h y color de fondo amarillo*/
+h2,h3{
+    font-size: 20px;
+    background-color: yellow;
+}
+/*Letra del body, como un default*/
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+/*lista del main*/
+ol{
+    font-size: 2em;
+    font-weight: 400;
+    list-style-position: inside;
+}
+/*Formulario*/
+.CCV{
+font-family: 'Roboto';
+font: bold;
+font-weight: 51pt;
+color: white;
+background-color: black;
+}
+.EC{
+font-family: 'Roboto';
+font: bold;
+font-weight: 33pt;
+color: black;
+background-color: yellow;
+}
+
+
+footer h1{
+font-size: 33px;
+}
+footer{
+    background-color: yellow;
+}
